@@ -2,7 +2,7 @@
 Sistema ABM de una dietética 
 
 Sistema de Administración de Usuarios web de una diectetica (ABM)
-Este proyecto implementa un Sistema de Administración de Usuarios (ABM) utilizando Python con la biblioteca web ligera Werkzeug. El ABM permite realizar operaciones básicas de Alta, Baja y Modificación sobre una base de datos mas concretamente en la tabla usuarios.
+Este proyecto implementa un Sistema de Administración de Usuarios (ABM) utilizando Python con la biblioteca web ligera Werkzeug. El ABM permite realizar operaciones básicas de Alta, Baja y Modificación sobre una base de datos, mas concretamente en la tabla usuarios.
 
 Características Principales:
 Alta de Usuarios: Agrega nuevos usuarios al sistema proporcionando información como nombre, contraseña, correo electrónico, dirección y fecha de registro.
